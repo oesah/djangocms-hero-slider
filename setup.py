@@ -56,7 +56,11 @@ setup(
         'djangocms_hero_slider',
     ],
     include_package_data=True,
-    install_requires=[],
+    install_requires=[
+        'django-cms>=3.4',
+        'django-filer>=1.2',
+        'djangocms-text-ckeditor>=3.2.1'
+    ],
     license="MIT",
     zip_safe=False,
     keywords='djangocms-hero-slider',
