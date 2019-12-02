@@ -45,3 +45,7 @@ output/*/index.html
 
 # Sphinx
 docs/_build
+
+venv/
+db.sqlite3
+project.db

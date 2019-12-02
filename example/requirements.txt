@@ -3,3 +3,7 @@
 
 # Your app in editable mode.
 -e ../
+
+# Dev puposes
+django-extensions
+jsonfield
