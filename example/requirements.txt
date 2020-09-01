@@ -6,4 +6,4 @@
 
 # Dev puposes
 django-extensions==3.0.6
-jsonfield==2.0.2
+jsonfield==3.1.0
